@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+.chart {
+  margin-top: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bar {
+  width: 2px;
+  height: 100px;
+  background-color: rgb(24, 200, 206);
+}
+
+#bar1 {
+  height: 80px;
+}
