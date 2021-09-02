@@ -12,10 +12,10 @@ body {
 
 .bar {
   width: 2px;
-  height: 100px;
+  height: 32rem;
   background-color: rgb(24, 200, 206);
 }
 
-#bar1 {
+/* #bar1 {
   height: 80px;
-}
+} */
